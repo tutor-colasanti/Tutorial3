@@ -3,57 +3,12 @@
 }
 
 
-body {
-
-    background-color: #dddddd;
-}
-
-.column{
-
-}
-
-.row{
-
-    }
     
 .row::after {
     content: "";
     clear: both;
     display: block;
 }
-
-.header{
-
-}
-
-
-.title{
-
-}
-
-.page {
-    width:70%;
-    margin:auto;
-    background-color: #ffffff;
-    }
-
-.navigation {
-
-    }
-    
-.item{
-    display: inline;
-    }
-    
-  a {
-    text-decoration: none;
-}
-    
- a:hover{
-}    
-    
-p {
-}
-    
+   
 
     
