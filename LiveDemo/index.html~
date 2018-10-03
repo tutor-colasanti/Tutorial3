@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Web design layout</title>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+	<div class="navbar">
+		<a class="nav-item" href="#">Link</a>
+		<a class="nav-item" href="#">Link</a>
+		<a class="nav-item" href="#">Link</a>
+		<a class="nav-item" href="#">Link</a>
+	</div>
+	<div class="page">
+		<div class="header">
+			<h1>Heading</h1>
+			<p>Statement about page</p>		
+		</div>
+		<div class="row">
+			<div class="col-25">
+				<div class="card">
+					<h4>Card heading 1</h4>
+					<div class="test-img" style="height:200px">Img1</div>
+					<p>Lorem. At ad pede pharetra at. Id praesent. Pulvinar congue, aenean mi neque. Elit viverra urna, nascetur a, suscipit hac, metus imperdiet. Ridiculus a etiam ac enim sociosqu dictumst. Eni arcu nisi lacus hymenaeos hac. Morbi sed vulputate. Rutrum commodo et, mi. Ligula. Pede aliquam. Nibh consectetuer senectus netus ut fermentum lacus quam euismod porttitor quis natoque magna arcu.</p>
+				</div>			
+			</div>
+			<div class="col-75">
+				
+				<div class="card">
+					<h4>Card heading 2</h4>
+					<div class="row">
+						<div class="col-25">
+							<div class="test-img" style="height:150px">Img2</div>					
+						</div>
+						<div class="col-75">
+							<p>
+	Lorem. Neque, a rhoncus at lobortis luctus, enim sollicitudin eu natoque. Leo, praesent a, consectetuer urna, laoreet sodales facilisis bibendum eros rutrum. Amet erat proin feugiat enim. Elementum. Et. Vitae tempus. Ornare lorem fringilla sociosqu nulla et mi platea inceptos porta.  Urna, dui.</p>
+						</div>				
+					</div>
+					<p>
+	Lorem. At, eget porta, nisi sodales vivamus taciti eu elit. Fusce neque nec elit diam nisi class ultricies primis sociosqu cras. Blandit id, turpis ut ante neque metus, lacus magnis. Id. Luctus platea magna, porttitor commodo platea odio tempus neque adipiscing rhoncus leo. Amet vestibulum convallis urna natoque facilisis est. Non dui leo natoque. Risus curabitur parturient potenti non praesent habitasse consectetuer natoque malesuada nunc nam semper. Purus mi pellentesque eros augue sodales. Placerat lectus vitae donec auctor interdum. Aenean. Class ac arcu, neque convallis imperdiet. Senectus nostra taciti neque, eros, dolor, et tellus conubia at.
+</p>
+<p>
+	Ad leo montes eu, diam bibendum cursus, eget cras in morbi tortor parturient. Ridiculus imperdiet felis dui nibh. Turpis porta lacinia ut ac urna mi sem ve ornare. Consequat netus, diam. Ornare eros, nunc quisque tincidunt nisi est nisl ornare. Dolor eleifend velit pede sapien, aliquet orci ut placerat tempor, mattis vel. Interdum turpis aenean justo vestibulum egestas elit. Egestas egestas eget ac elementum massa eu aenean venenatis class cras volutpat pellentesque, nullam aenean. Et cursus ante, sodales vel, in accumsan feugiat natoque duis consectetuer. Mollis dis, tellus gravida rhoncus nonummy eros. Tincidunt commodo purus neque diam, blandit etiam amet magna. Ad.
+</p>
+				
+				</div>
+			
+			</div>		
+		</div>
+		<div class="fotter"> RWP with AWD at Cardiff University</div>	
+	
+	</div>
+</div>
+</body>
+</html>
